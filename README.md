@@ -3862,3 +3862,7 @@ For very large apps:
     
 
     
+## 🎉 Contributions Welcome!
+I’m happy to welcome contributions. Whether it's a bug fix, a new feature, or even improving the documentation—your input is appreciated!
+
+Feel free to fork the repo, create a pull request, or open an issue if you have suggestions or questions.
